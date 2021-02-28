@@ -1,5 +1,5 @@
 # oswhich
-This package allows for cross-platform implementations on-the-go with a very sugary decorator syntax.
+This package allows for cross-platform implementations on-the-go with a very sugary decorator syntax. It works also for classes, its methods and properties. Although, development is still incipient so feel free to open an issue on the bug tracker.
 
 ## Examples
 ```python
