@@ -1,2 +1,2 @@
-# oswitch
+# oswhich
 OS decorator syntax
